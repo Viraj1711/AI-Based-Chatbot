@@ -1,0 +1,5 @@
+To get started, you'll need the following libraries:
+
+transformers – for using pre-trained language models like GPT-2 or GPT-3.
+Flask – to create a simple web application for the chatbot.
+torch – required by transformers for model inference.
