@@ -1,0 +1,6 @@
+/AI-Chatbot
+│
+├── chatbot.py                # Python script for backend (Flask server)
+├── /templates
+│   └── index.html            # HTML template for the chatbot interface
+└── requirements.txt          # Python dependencies file
